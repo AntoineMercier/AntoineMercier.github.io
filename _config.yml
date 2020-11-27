@@ -20,7 +20,7 @@ title                    : "Antoine Mercier"
 title_separator          : "-"
 subtitle                 : "PhD Student in geology"
 name                     : "Antoine Mercier"
-description              : "PhD student"
+description              : "student"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : AntoineMercier/AntoineMercier.github.io
