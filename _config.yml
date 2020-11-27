@@ -20,7 +20,7 @@ title                    : "Antoine Mercier"
 title_separator          : "-"
 subtitle                 : "PhD Student in geology"
 name                     : "Antoine Mercier"
-description              : "I am a student"
+description              : "My personnal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : AntoineMercier/AntoineMercier.github.io
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Antoine Mercier"
   avatar           : "/assets/images/avatar_small.jpg"
-  bio              : "PHd student"
+  bio              : "Phd student"
   location         : "Université de Lyon"
   email            : "antoine.mercier@gmx.com"
   links:
