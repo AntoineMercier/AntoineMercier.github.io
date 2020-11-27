@@ -111,7 +111,7 @@ author:
     - label: "Université Claude Bernard Lyon 1 "
       icon: "fas fa-university"
       url: "https://www.univ-lyon1.fr/"
-    - label: "Observatoire des sciences de l'univers de Lyon"
+    - label: "Observatoire de Lyon"
       icon: "fas fa-globe-europe"
       url: "https://observatoire.univ-lyon1.fr/"
 
