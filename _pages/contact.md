@@ -3,9 +3,9 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 header:
-  image: /assets/images/teaser.jpg
-  image_description: "A description of the image"
-  aption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: /assets/images/image_contact.jpg
+  image_description: "Les Pyramides calcaires  - Val Veny; Italy"
+  aption: "Photo credit: ©Antoine Mercier"
 redirect_from: 
   - /contact/
   - /contact.html
