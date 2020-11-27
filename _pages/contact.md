@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 header:
-  image: /assets/images/image_contact.jpg
+  image: /assets/images/image_pormenaz.jpg
   image_description: "Les Pyramides calcaires  - Val Veny; Italy"
   aption: "Photo credit: ©Antoine Mercier"
 redirect_from: 
