@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /posts/
 title: "The first post"
 author_profile: true
 ---
