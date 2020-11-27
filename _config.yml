@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true #, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -108,15 +108,12 @@ author:
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0003-1270-2889"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Université Claude Bernard Lyon 1 "
+      icon: "fas fa-university"
+      url: "https://www.univ-lyon1.fr/"
+    - label: "Observatoire des sciences de l'univers de Lyon"
+      icon: "fas fa-globe-europe"
+      url: "https://observatoire.univ-lyon1.fr/"
 
 # Site Footer
 footer:
