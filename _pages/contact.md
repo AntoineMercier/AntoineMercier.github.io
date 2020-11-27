@@ -3,7 +3,9 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 header:
-  teaser: /assets/images/teaser.jpg
+  image: /assets/images/teaser.jpg
+  image_description: "A description of the image"
+  aption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 redirect_from: 
   - /contact/
   - /contact.html
