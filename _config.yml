@@ -24,7 +24,7 @@ description              : "My personnal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : AntoineMercier/AntoineMercier.github.io
-teaser                   : "/assets/images/avatar_small.jpg"
+teaser                   : #"/assets/images/avatar_small.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Antoine Mercier"
-  avatar           : "/assets/images/avatar_small.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Phd student"
   location         : "Université de Lyon"
   email            : "antoine.mercier@gmx.com"
