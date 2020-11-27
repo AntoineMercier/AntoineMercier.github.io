@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publications/2020-11-27-myfirstpaper
+permalink: /publications/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-27
 venue: 'Journal 1'
