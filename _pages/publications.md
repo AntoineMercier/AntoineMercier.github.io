@@ -2,6 +2,10 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+header:
+  image: /assets/images/image_pyramides.jpg
+  image_description: "Les Pyramides calcaires  - Val Veny; Italy"
+  aption: "Photo credit: ©Antoine Mercier"
 author_profile: true
 ---
 
