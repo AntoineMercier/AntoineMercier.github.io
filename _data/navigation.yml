@@ -6,6 +6,8 @@ main:
     url: /teaching/
   - title: "Blog"
     url: /year-archive/
+  - title: "Blog"
+    url: /fieldwork/
   #- title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Contact"
