@@ -2,14 +2,19 @@
 main:
   - title: "Publications"
     url: /publications/
+    
   - title: "Teaching"
     url: /teaching/
+    
   - title: "Blog"
     url: /year-archive/
+    
   - title: "Field missions"
     url: /fieldwork/
+    
   - title: "CV"
    url: /CV/
+   
   - title: "Contact"
     url: /contact/
   # - title: "About"
