@@ -261,7 +261,15 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+    
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
