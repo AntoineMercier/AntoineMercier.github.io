@@ -5,7 +5,7 @@ author_profile: true
 header:
   image: /assets/images/image_pormenaz.jpg
   image_description: "Crête Blanche de Pormenaz, France"
-  caption: "Crête Blanche de Pormenaz, Aiguilles Rouges massif, France - ©Antoine Mercier"
+  caption: "Crête Blanche de Pormenaz, Aiguilles Rouges, France - ©Antoine Mercier"
 redirect_from: 
   - /CV/
   - /CV.html
