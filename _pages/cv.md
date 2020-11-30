@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Curiculum Vitae"
 author_profile: true
 header:
   image: /assets/images/image_pormenaz.jpg
