@@ -5,7 +5,7 @@ permalink: /publications/
 header:
   image: /assets/images/image_pyramides.jpg
   image_description: "Les Pyramides calcaires  - Val Veny; Italy"
-  aption: "Les Pyramides calcaires  - Val Veny,Italy ;  ©Philippe Hervé Leloup"
+  caption: "Les Pyramides calcaires  - Val Veny, Italy ;  ©Philippe Hervé Leloup"
 author_profile: true
 ---
 {% if author.googlescholar %}
