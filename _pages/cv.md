@@ -2,7 +2,7 @@
 permalink: /cv/
 title: "Curiculum Vitae"
 author_profile: true
-header:_
+header:
   image: /assets/images/col_pyramides.jpg
   image_description: "Col des Pyramides calcaires, Italy"
   caption: "Col des Pyramides calcaires, Italy - ©Philippe Hervé Leloup"
