@@ -1,6 +1,6 @@
 # main links
 main:
-- title: "Publications"
+ - title: "Publications"
     url: /publications/
     
   - title: "Teaching"
@@ -11,9 +11,6 @@ main:
     
   - title: "Field missions"
     url: /fieldwork/
-    
-  - title: "CV"
-   url: /CV/
-   
+ 
   - title: "Contact"
     url: /contact/
