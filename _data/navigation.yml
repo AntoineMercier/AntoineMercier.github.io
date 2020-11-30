@@ -1,16 +1,12 @@
 # main links
 main:
- - title: "Publications"
+  - title: "Publications"
     url: /publications/
-    
   - title: "Teaching"
-    url: /teaching/
-    
+    url: /teaching/   
   - title: "Blog"
     url: /year-archive/
-    
   - title: "Field missions"
     url: /fieldwork/
- 
   - title: "Contact"
     url: /contact/
