@@ -10,6 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 I'm Antoine, preparing a PhD at the [University de Lyon](https://www.univ-lyon1.fr/)
 
