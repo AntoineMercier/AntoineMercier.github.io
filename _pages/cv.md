@@ -2,10 +2,10 @@
 permalink: /cv/
 title: "Curiculum Vitae"
 author_profile: true
-header:
-  image: /assets/images/image_pormenaz.jpg
-  image_description: "Crête Blanche de Pormenaz, France"
-  caption: "Crête Blanche de Pormenaz, Aiguilles Rouges, France - ©Antoine Mercier"
+header:_
+  image: /assets/images/col_pyramides.jpg
+  image_description: "Col des Pyramides calcaires, Italy"
+  caption: "Col des Pyramides calcaires, Italy - ©Philippe Hervé Leloup"
 redirect_from: 
   - /CV/
   - /CV.html
