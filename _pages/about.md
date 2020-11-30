@@ -11,7 +11,9 @@ redirect_from:
   - /about.html
 ---
 
+I'm Antoine, preparing a PhD at the [University de Lyon](https://www.univ-lyon1.fr/)
+
 My research
 ======
 
-To be written
+I use structural geology and tectonics to quantify the deformation in the alpine massifs. 
