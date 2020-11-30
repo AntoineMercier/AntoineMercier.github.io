@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications/
 header:
@@ -8,9 +8,13 @@ header:
   aption: "Les Pyramides calcaires  - Val Veny,Italy ;  ©Philippe Hervé Leloup"
 author_profile: true
 ---
-# Submitted 
-[1] The first publication submiteted
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-# Peer reviewed
+{% include base_path %}
 
-[2] The first publication peer reviewed
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+---
