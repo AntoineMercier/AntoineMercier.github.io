@@ -114,6 +114,9 @@ author:
     - label: "Observatoire de Lyon"
       icon: "fas fa-globe-europe"
       url: "https://observatoire.univ-lyon1.fr/"
+    - label: "Laboratoire de géologie de Lyon"
+      icon: "fas fa-microscope"
+      url: "http://lgltpe.ens-lyon.fr"
 
 # Site Footer
 footer:
