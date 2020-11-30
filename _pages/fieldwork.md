@@ -11,5 +11,12 @@ redirect_from:
   - /contact.html
 ---
 
-## Filed mission
-* Mont-Blanc (2020)
+## Alps, France
+* Mont-Blanc massif (08/09-2020)
+* Aiguilles Rouges massif (07-2020)
+* Aiguilles Rouges massif (04-2019)
+* Aiguilles Rouges massif (08-2018)
+* Set up of temporary GPS stations (2016)
+
+## Reykjaness peninsula, Iceland
+* Set up of temporary GPS stations (2017)
