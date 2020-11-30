@@ -5,7 +5,7 @@ author_profile: true
 header:
   image: /assets/images/image_belvedere.jpg
   image_description: "Sommet de l'Aiguille du Belvedère, Aiguilles Rouges, France"
-  caption: "Sommet de l'Aiguille du Belvedère, Aiguilles Rouges, France - ©Antoine Mercier"
+  caption: "Aiguille du Belvedère summit, Aiguilles Rouges, France - ©Antoine Mercier"
 redirect_from: 
   - /about/
   - /about.html
