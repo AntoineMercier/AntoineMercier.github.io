@@ -5,16 +5,12 @@ permalink: /publications/
 header:
   image: /assets/images/image_pyramides.jpg
   image_description: "Les Pyramides calcaires  - Val Veny; Italy"
-  aption: "Photo credit: ©Antoine Mercier"
+  aption: "Les Pyramides calcaires  - Val Veny,Italy ;  ©Philippe Hervé Leloup"
 author_profile: true
 ---
+# Submitted 
+[1] The first publication submiteted
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Peer reviewed
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[2] The first publication peer reviewed
