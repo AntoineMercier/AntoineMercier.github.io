@@ -1,17 +1,12 @@
 ---
-permalink: /contact/
-title: "Contact"
+permalink: /CV/
+title: "CV"
 author_profile: true
 header:
   image: /assets/images/image_pormenaz.jpg
-  image_description: "Crête Blanche de Pormenaz, Italy"
-  caption: "Photo credit: ©Antoine Mercier"
+  image_description: "Crête Blanche de Pormenaz, France"
+  caption: "Crête Blanche de Pormenaz, France ; ©Antoine Mercier"
 redirect_from: 
-  - /contact/
-  - /contact.html
+  - /CV/
+  - /CV.html
 ---
-
-## E-mail
-* antoine.mercier@unvi-lyon1.fr
-* antoine.mercier@gmx.com
-
