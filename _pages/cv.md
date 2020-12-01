@@ -21,5 +21,5 @@ redirect_from:
 * **2017 - 2019**: Master of Physics and Chemistry of Earth and Planets, University Claude Bernard Lyon1, Ecole Normale Supérieure de Lyon.
 
 ## Professional experience
-* **2020** : Assistant research engineer, Geoazur laboratory, Sopohia Antipolis
+* **2020** : Assistant research engineer, Geoazur laboratory, Sophia Antipolis
   - Collaboration with Isabelle Manighetti
