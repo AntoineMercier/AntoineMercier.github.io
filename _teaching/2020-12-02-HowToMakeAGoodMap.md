@@ -4,8 +4,6 @@ title: "How to make a good map ?"
 layout: "posts"
 author_profile: true
 ---
-# How to make a good map ? #
-
 1. **Title**: The title has to be very clear and concise. It declare the subject matter and the geographical area concerned. 
 The title can be borken down into main and subtitle. 
 
