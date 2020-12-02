@@ -6,17 +6,14 @@ header:
   image: /assets/images/image_pormenaz.jpg
   image_description: "Crête Blanche de Pormenaz, France"
   caption: "Crête Blanche de Pormenaz, Aiguilles Rouges, France - ©Antoine Mercier"
-redirect_from: 
-  - /contact/
-  - /contact.html
 ---
 
 ## Alps, France
-* Mont-Blanc massif (08/09-2020)
-* Aiguilles Rouges massif (07-2020)
-* Aiguilles Rouges massif (04-2019)
-* Aiguilles Rouges massif (08-2018)
-* Set up of temporary GPS stations (2016)
+* Mont-Blanc massif, 08/09-2020, structural geology.
+* Aiguilles Rouges massif, 07-2020, structural geology.
+* Aiguilles Rouges massif, 04-2019, structural geology.
+* Aiguilles Rouges massif, 08-2018, structural geology.
+* Briançonnais, 07-2016, set-up of temporary GPS stations.
 
 ## Reykjaness peninsula, Iceland
-* Set up of temporary GPS stations (2017)
+* Reykjaness peninsula, 06-2017, set-up of temporary GPS stations. 
