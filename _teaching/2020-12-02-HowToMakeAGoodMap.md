@@ -4,6 +4,20 @@ title: "How to make a good map ?"
 layout: "posts"
 author_profile: true
 ---
+The primary purpose of a map is to give spatial informations. This requires a good choice of the data, an appropriate processing and a right choice of variables to be represented. It also requires graphic qualities such as aesthetics. 
+
+First f al, it is necessary to understand the different stages of construction of a good map : 
+
+1. Definition of the purpose of the map.
+2. Data collection: the map base but also the data represented. 
+3. Data processing.
+4. Elaboration of the map
+
+This final stage is the one we will discuss here:
+Usually a map is included in a report or a publication and followed by explanations and text, however it is important to understand that a map can be extracted from the support and therefore it must contain all the information necessary for its reading. 
+
+The essential components of a map are as follow: 
+
 1. **Title**: The title has to be very clear and concise. It declare the subject matter and the geographical area concerned. 
 The title can be borken down into main and subtitle. 
 
