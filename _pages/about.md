@@ -3,9 +3,9 @@ permalink: /
 title: "About"
 author_profile: true
 header:
-  image: /assets/images/image_belvedere.jpg
-  image_description: "Sommet de l'Aiguille du Belvedère, Aiguilles Rouges, France"
-  caption: "Aiguille du Belvedère summit, Aiguilles Rouges, France - ©Antoine Mercier"
+  image: /assets/images/flegere.jpg
+  image_description: "Mont-Blanc massif, France"
+  caption: "Mont-Blanc massif, France - ©Antoine Mercier"
 redirect_from: 
   - /about/
   - /about.html
