@@ -1,11 +1,10 @@
 ---
-permalink: /teaching/2020/11/teaching1/
-title: "The first teaching post"
+permalink: /teaching/2020/11/HowToMakeAGoodMap/
+title: "How to make a good map ?"
 layout: "posts"
 author_profile: true
 ---
-
-This is my first teaching post
+# How to make a good map ? #
 
 1. **Title**: The title has to be very clear and concise. It declare the subject matter and the geographical area concerned. 
 The title can be borken down into main and subtitle. 
