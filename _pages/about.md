@@ -2,6 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
+classes: wide
 header:
   image: /assets/images/helbronner.jpg
   image_description: "Mont-Blanc massif from pointe Helbronner, Italy/France"
