@@ -3,9 +3,9 @@ permalink: /
 title: "About"
 author_profile: true
 header:
-  image: /assets/images/flegere.jpg
-  image_description: "Mont-Blanc massif, France"
-  caption: "Mont-Blanc massif, France - ©Antoine Mercier"
+  image: /assets/images/helbronner.jpg
+  image_description: "Mont-Blanc massif from pointe Helbronner, Italy/France"
+  caption: "Mont-Blanc massif from pointe Helbronner, Italy - ©Antoine Mercier"
 redirect_from: 
   - /about/
   - /about.html
