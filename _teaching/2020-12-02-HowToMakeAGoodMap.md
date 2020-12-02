@@ -2,7 +2,6 @@
 permalink: /teaching/2020/11/HowToMakeAGoodMap/
 title: "How to make a good map ?"
 layout: "posts"
-excerpt: "The tuto gives the main clues for building a map worthy of a cartographer!
 author_profile: true
 ---
 The first question to ask is : what is actually a good map ? Well, the primary purpose of a map is to give clear spatial informations. This requires a good choice of the data, an appropriate processing and a right choice of variables to be represented. It also requires graphic qualities such as aesthetics. 
