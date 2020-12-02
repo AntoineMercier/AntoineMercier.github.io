@@ -18,8 +18,8 @@ Previously, I worked at the [Geoazur](https://geoazur.oca.eu/fr/acc-geoazur) lab
 
 Before that, I have done my Master degree in physics and chemistry of the Earth and planets at the Ecole Normale Supérieure de Lyon and the University Claude Bernard Lyon-1. My master thesis has been part of the RGF project, founded by the french geological survey (BRGM), specializing in 3D geological modeling, structural geology and tectonics.
 
-## Field of work ##
+## Disciplines ##
 * Geology
-* Tectonics
+* Tectonics / Structural geology
 * 3D Geological Modelling
-* GIS
+* GIS / cartography
