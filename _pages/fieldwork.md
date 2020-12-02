@@ -15,5 +15,6 @@ header:
 * Aiguilles Rouges massif, 08-2018, structural geology.
 * Briançonnais, 07-2016, set-up of temporary GPS stations.
 
-## Reykjaness peninsula, Iceland
+## Iceland
 * Reykjaness peninsula, 06-2017, set-up of temporary GPS stations. 
+* South Iceland Seismic Zone, 2017, mapping of faults and field deformations. 
