@@ -2,16 +2,17 @@
 permalink: /teaching/2020/11/HowToMakeAGoodMap/
 title: "How to make a good map ?"
 layout: "posts"
+excerpt: "The tuto gives the main clues for building a map worthy of a cartographer!
 author_profile: true
 ---
-The primary purpose of a map is to give spatial informations. This requires a good choice of the data, an appropriate processing and a right choice of variables to be represented. It also requires graphic qualities such as aesthetics. 
+The first question to ask is : what is actually a good map ? Well, the primary purpose of a map is to give clear spatial informations. This requires a good choice of the data, an appropriate processing and a right choice of variables to be represented. It also requires graphic qualities such as aesthetics. 
 
-First f al, it is necessary to understand the different stages of construction of a good map : 
+First of al, it is necessary to understand the different stages of construction of a good map : 
 
-1. Definition of the purpose of the map.
-2. Data collection: the map base but also the data represented. 
-3. Data processing.
-4. Elaboration of the map
+1. Definition of the purpose of the map : why a map is necessary ? For who ?
+2. Data collection: the map base but also the data represented: what will be represented ?
+3. Data processing : from the raw data to the data you want to show. 
+4. Elaboration of the map: graphic semiology. 
 
 This final stage is the one we will discuss here:
 Usually a map is included in a report or a publication and followed by explanations and text, however it is important to understand that a map can be extracted from the support and therefore it must contain all the information necessary for its reading. 
@@ -35,6 +36,8 @@ The title can be borken down into main and subtitle.
 
 8. **Frame/coordinates**: The presence of a thin frame that encompasses the entire map is ussually recommended. The frame should never be closer than 1cm from the sheet edge. Moreover, it is also recommended to ad the coordinate reference system associated with the projection used for the map, especially in a scientific communication where the results can be replicated. 
 
-9. **Toponymie**: The map has to be labeled with some toponymis like cities or known places. 
+9. **Toponymy**: The map has to be labeled with some toponymis like cities or known places. 
 
 {% include figure image_path="/assets/images/savoie.png" alt="Instrumental seismicy in Savoie" caption="Example of a map : Instrumental seismicity in Savoie between 1980 and 2020." %}
+
+This tuto has be build using the lectures notes from the courses of Claire Cunty (Mcf) and Luc Merchez (Mcf) [Université Lumière Lyon2](https://www.univ-lyon2.fr/)
