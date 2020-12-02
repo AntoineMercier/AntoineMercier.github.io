@@ -12,7 +12,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-I'm Antoine, preparing a PhD at the [University de Lyon](https://www.univ-lyon1.fr/)
+I currently work at the [Observatoire de Lyon](https://observatoire.univ-lyon1.fr/), preparing a PhD at the [University de Lyon](https://www.univ-lyon1.fr/). 
+My work focuses on the alpine deformation during the 
 
 My research
 ======
