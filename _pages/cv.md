@@ -2,6 +2,7 @@
 permalink: /cv/
 title: "Curiculum Vitae"
 author_profile: true
+classes: wide
 header:
   image: /assets/images/col_pyramides.jpg
   image_description: "Col des Pyramides calcaires, Italy"
