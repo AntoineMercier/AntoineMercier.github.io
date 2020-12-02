@@ -24,3 +24,5 @@ The title can be borken down into main and subtitle.
 8. **Frame/coordinates**: The presence of a thin frame that encompasses the entire map is ussually recommended. The frame should never be closer than 1cm from the sheet edge. Moreover, it is also recommended to ad the coordinate reference system associated with the projection used for the map, especially in a scientific communication where the results can be replicated. 
 
 9. **Toponymie**: The map has to be labeled with some toponymis like cities or known places. 
+
+{% include figure image_path="/assets/images/savoie.png" alt="Instrumental seismicy in Savoie" caption="Example of a map : Instrumental seismicity in Savoie between 1980 and 2020." %}
