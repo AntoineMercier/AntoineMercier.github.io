@@ -22,5 +22,5 @@ redirect_from:
   - Erasmus in the University of Iceland, Reykjavik. 
 
 ## Professional experience
-* **2020** : Assistant research engineer, Geoazur laboratory, Sophia Antipolis
+* **2020**: Assistant research engineer, Geoazur laboratory, Sophia Antipolis
   - Collaboration with Isabelle Manighetti
