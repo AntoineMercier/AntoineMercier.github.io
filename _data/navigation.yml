@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "CV"
+    url: /cv/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
@@ -8,5 +10,3 @@ main:
     url: /year-archive/
   - title: "Field missions"
     url: /fieldwork/
-  - title: "CV"
-    url: /cv/
