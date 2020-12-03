@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 ## Current position
-* PhD student at Laboratoire de Géologie de Lyon
+* Ph.D. student at Laboratoire de Géologie de Lyon
 
 ## Academic background
 
