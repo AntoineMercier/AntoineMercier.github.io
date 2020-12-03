@@ -13,7 +13,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I currently work at the [Observatoire de Lyon](https://observatoire.univ-lyon1.fr/), preparing a Ph.D. at the [University de Lyon](https://www.univ-lyon1.fr/). 
+I currently work at the [Observatoire de Lyon](https://observatoire.univ-lyon1.fr/), preparing a Ph.D. at the [University de Lyon](https://www.univ-lyon1.fr/) under the supervision of Philippe Hervé Leloup (research director, CNRS).
 
 My Ph.D. aims to understand the geometry and kinematics of the alpine deformations in the Mont-Blanc/Aiguilles Rouges area. To do so, I use implicit 3D geological modeling and Thermo-kinematic modeling together. More broadly, the objective is to determine the geographical expansion and the geometry of such thrust systems at the external Alps scale. Finally, this research will provide answers on the thickening modes in the external Alps and the mechanical behavior of the orogenic wedges. 
  
