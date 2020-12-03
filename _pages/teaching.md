@@ -2,6 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
+classes: wide
 header:
   image: /assets/images/grande_ecaille.jpg
   image_description: "La grande écaille, Mont-Blanc, France"
