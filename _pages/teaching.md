@@ -16,8 +16,8 @@ author_profile: true
 * Lecture course - Géologie structurale : les roches de failles.
 * Tutorial classe - Cartographie et SIG : projet "les risques naturels en France".
 
+## Online tutorials for students: 
 {% include base_path %}
-
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
