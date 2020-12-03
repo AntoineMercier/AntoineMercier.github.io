@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/2020/11/HowToMakeAGoodMap/
-title: "How to make a good map ?"
+title: "TUTO-CARTO #1 : How to make a good map ?"
 layout: "posts"
 classes: wide
 author_profile: true
