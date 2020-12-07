@@ -10,9 +10,13 @@ header:
 author_profile: true
 ---
 ## Courses and tutorial classes: 
-### L3
-* Lecture course - Géologie structurale : les roches de failles.
-* Tutorial classe - Cartographie et SIG : projet "les risques naturels en France".
+### Structural geology and tectonics
+* Lecture course (L3) - Géologie structurale : les roches de failles.
+* Tutorial classes (L2) - Tectonique et géomorphologie.
+
+### GIS and cartography
+* Tutorial classe (L3) - Cartographie et SIG : projet "les risques naturels en France".
+* Tutorial classe (M1) - Systèmes d'informations géographiques.
 
 ## Online tutorials for students: 
 {% include base_path %}
