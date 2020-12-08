@@ -16,7 +16,7 @@ author_profile: true
 
 ### GIS and cartography
 * Tutorial classe (L3) - Cartographie et SIG : projet "les risques naturels en France".
-* Tutorial classe (M1) - Systèmes d'informations géographiques.
+* Tutorial classe (M1) - Introduction aux systèmes d'informations géographiques.
 
 ## Online tutorials for students: 
 {% include base_path %}
