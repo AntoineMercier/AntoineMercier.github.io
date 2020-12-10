@@ -9,7 +9,7 @@ header:
   caption: "Sólheimajökull glacier, south Iceland - ©Antoine Mercier"
 author_profile: true
 ---
-## Courses and tutorial classes: 
+## Courses and tutorial classes taught: 
 ### Structural geology and tectonics
 * Lecture course (L3) - Géologie structurale : les roches de failles.
 * Tutorial classes (L2) - Tectonique et géomorphologie.
