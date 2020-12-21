@@ -8,6 +8,9 @@ header:
   image_description: "Sólheimajökull glacier, Iceland"
   caption: "Sólheimajökull glacier, south Iceland - ©Antoine Mercier"
 author_profile: true
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "globe-europe"
 ---
 ## Courses and tutorial classes taught: 
 ### Structural geology and tectonics
