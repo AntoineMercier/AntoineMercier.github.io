@@ -12,7 +12,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "globe-europe"
 ---
-## Courses and tutorial classes taught: 
 ### Structural geology and tectonics
 * Lecture course (L3) - Géologie structurale : les roches de failles.
 * Tutorial classes (L2) - Tectonique et géomorphologie.
