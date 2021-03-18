@@ -20,6 +20,9 @@ toc_icon: "globe-europe"
 * Tutorial classe (L3) - Cartographie et SIG : projet "les risques naturels en France".
 * Tutorial classe (M1) - Introduction aux systèmes d'informations géographiques.
 
+### Field Courses
+* M1 - Stage de cartographie 3D, Cévènnes, Bassin d'Alès.
+
 ## Online tutorials for students: 
 {% include base_path %}
 {% for post in site.teaching reversed %}
