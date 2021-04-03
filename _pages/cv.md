@@ -14,31 +14,30 @@ redirect_from:
 
 Current position
 -----------------
-Ph.D. student in tectonics
-Unité de recherche UMR 5276
-LABORATOIRE DE GEOLOGIE DE LYON : TERRE, PLANETES ET ENVIRONNEMENT
-Observatoire de Lyon
+Ph.D. student in tectonics  
+Unité de recherche UMR 5276  
+LABORATOIRE DE GEOLOGIE DE LYON : TERRE, PLANETES ET ENVIRONNEMENT  
+Observatoire de Lyon  
 Theme surface et lithosphere
 
 Academic background
 --------------------
 
 * **2017 - 2019**: Master of Physics and Chemistry of Earth and Planets, University Claude Bernard Lyon1, Ecole Normale Supérieure de Lyon.
-
 * **2014 - 2017**: Bachelor in Earth and Environmental Sciences, University Savoie Mont-Blanc.
   - Erasmus in the University of Iceland, Reykjavik. 
 
 Professional experience
- ------------------------
-* **2020**: Assistant research engineer, Geoazur laboratory, Sophia Antipolis
-Supervision: Isabelle Manighetti, Physicienne des Observatoires (CNAP).
+------------------------
+* **2020**: Assistant research engineer, Geoazur laboratory, Sophia Antipolis  
+Supervision: Isabelle Manighetti, Physicienne des Observatoires (CNAP).  
 Mapping and measuring tectonic damage (aerospace imaging, GIS, deep learning). Development of numerical analysis tools (MatLab) to quantify the structural maturity of faults from their surface traces.
 
-* **2019**: Master thesis, Observatoire de Lyon
-Supervision: Philippe Hervé Leloup - CNRS Research Director.
+* **2019**: Master thesis, Observatoire de Lyon  
+Supervision: Philippe Hervé Leloup - CNRS Research Director.  
 _3D geometry of the Chamonix synclinorium, implications on the relations between the external crystalline massifs
-and the sub-alpine chains._
- RGF project, funded by BRGM. Construction of a geological model of the Mont-Blanc and the Aiguilles Rouges massifs; organization of a geo-spatial database on the massif integrating new field data.
+and the sub-alpine chains._  
+RGF project, funded by BRGM. Construction of a geological model of the Mont-Blanc and the Aiguilles Rouges massifs; organization of a geo-spatial database on the massif integrating new field data.
  
 Computer skills
 ---------------
