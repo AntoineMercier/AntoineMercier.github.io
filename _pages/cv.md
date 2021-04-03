@@ -15,9 +15,9 @@ redirect_from:
 Current position
 -----------------
 Ph.D. student in tectonics  
-Unité de recherche UMR 5276  
 LABORATOIRE DE GEOLOGIE DE LYON : TERRE, PLANETES ET ENVIRONNEMENT  
 Observatoire de Lyon  
+Unité mixte de recherche : UMR 5276  
 Theme surface et lithosphere
 
 Academic background
