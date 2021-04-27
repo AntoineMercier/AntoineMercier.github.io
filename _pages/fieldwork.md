@@ -9,10 +9,10 @@ header:
 ---
 
 ## Alps, France
-* Mont-Blanc massif, 08/09-2020, structural geology.
-* Aiguilles Rouges massif, 07-2020, structural geology.
-* Aiguilles Rouges massif, 04-2019, structural geology.
-* Aiguilles Rouges massif, 08-2018, structural geology.
+* Mont-Blanc massif, 08/09-2020
+* Aiguilles Rouges massif, 07-2020
+* Aiguilles Rouges massif, 04-2019
+* Aiguilles Rouges massif, 08-2018
 * Briançonnais, 07-2016, set-up of temporary GPS stations.
 
 ## Iceland
