@@ -1,17 +1,16 @@
 ---
-title: "Géométrie 3D du synclinorium de Chamonix"
+title: "Fault Trace Corrugation and Segmentation as a Measure of Fault Structural Maturity"
 collection: publications
-permalink: /publication/2019-06-01-ChamSync
-excerpt: 'A. Mercier and P.H Leloup (2019)'
-date: 2019-06-01
+permalink: /publication/2021-10-26-ChamSync
+excerpt: 'I. Manighetti, A. Mercier, and L. De Barros (2021)'
+date: 2019-10-26
 classes: wide
 header:
   image: /assets/images/flegere.jpg
   image_description: "Mont-Blanc massif, France"
   caption: "Mont-Blanc massif from La Flégère, France - ©Antoine Mercier"
-paperurl: 'http://rgf.brgm.fr/sites/default/files/upload/documents/production-scientifique/Masters/rgf_amialps2018_ma4_memoire_mercier.pdf'
+paperurl: 'https://doi.org/10.1029/2021GL095372'
 ---
-[Manuscript and supplements](https://doi.org/10.1029/2021GL095372)
 
 ### Abstract ###
 As faults grow over time and become more “mature,” some of their geometrical and
