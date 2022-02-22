@@ -16,9 +16,13 @@ Current position
 -----------------
 Ph.D. student in tectonics  
 LABORATOIRE DE GEOLOGIE DE LYON : TERRE, PLANETES ET ENVIRONNEMENT  
-Observatoire de Lyon  
+Observatoire des Sciences de l'Univers de Lyon  
 Unité mixte de recherche : UMR 5276  
-Theme surface et lithosphere
+Equipe surface et lithosphere
+
+Administrative responsibility
+-----------------------------
+Membre élu, collège usager (étudiants) au conseil de l'Observatoire de Lyon.
 
 Academic background
 --------------------
