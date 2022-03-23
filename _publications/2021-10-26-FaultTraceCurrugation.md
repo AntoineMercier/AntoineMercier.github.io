@@ -2,7 +2,7 @@
 title: "Fault Trace Corrugation and Segmentation as a Measure of Fault Structural Maturity"
 collection: publications
 permalink: /publication/2021-10-26-ChamSync
-excerpt: 'I. Manighetti, A. Mercier, and L. De Barros (2021)'
+excerpt: 'I. Manighetti, A. Mercier, and L. De Barros (2021) Geophysical Research Letters'
 date: 2021-10-26
 classes: wide
 header:
