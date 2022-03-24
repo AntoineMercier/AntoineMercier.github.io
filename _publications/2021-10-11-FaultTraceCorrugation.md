@@ -12,7 +12,7 @@ header:
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095372'
 ---
 
-Manighetti, I., Mercier, A., & De Barros, L. (2021). Fault trace corrugation and segmentation as a measure of fault structural maturity. Geophysical Research Letters, 48, e2021GL095372. https://doi.org/10.1029/2021GL095372 
+Manighetti, I., Mercier, A., & De Barros, L. (2021). Fault trace corrugation and segmentation as a measure of fault structural maturity. Geophysical Research Letters, 48, e2021GL095372. [https://doi.org/10.1029/2021GL095372](https://doi.org/10.1029/2021GL095372)
 
 ### Abstract
 
