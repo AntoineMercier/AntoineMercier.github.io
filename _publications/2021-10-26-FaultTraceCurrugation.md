@@ -3,7 +3,7 @@ title: "Fault Trace Corrugation and Segmentation as a Measure of Fault Structura
 collection: publications
 permalink: /publication/2021-10-26-ChamSync
 excerpt: 'I. Manighetti, A. Mercier, and L. De Barros (2021)'
-date: 2021-10-26
+date: 2019-10-26
 classes: wide
 header:
   image: /assets/images/flegere.jpg
