@@ -2,7 +2,7 @@
 title: "Fault Trace Corrugation and Segmentation as a Measure of Fault Structural Maturity"
 collection: publications
 permalink: /publication/2021-10-26-ChamSync
-excerpt: 'I. Manighetti, A. Mercier, and L. De Barros (2021) Geophysical Research Letters'
+excerpt: 'I. Manighetti, A. Mercier, and L. De Barros (2021)'
 date: 2021-10-26
 classes: wide
 header:
@@ -11,8 +11,6 @@ header:
   caption: "Mont-Blanc massif from La Flégère, France - ©Antoine Mercier"
 paperurl: 'https://doi.org/10.1029/2021GL095372'
 ---
-
-Manighetti, I., Mercier, A., & De Barros, L. (2021). Fault trace corrugation and segmentation as a measure of fault structural maturity. Geophysical Research Letters, 48, e2021GL095372. https://doi.org/10.1029/2021GL095372 
 
 ### Abstract ###
 As faults grow over time and become more “mature,” some of their geometrical and
