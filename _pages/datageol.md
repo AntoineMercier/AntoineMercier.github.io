@@ -4,9 +4,9 @@ title: "DataGeol"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/col_pyramides.jpg
-  image_description: "Col des Pyramides calcaires, Italy"
-  caption: "Col des Pyramides calcaires, Italy - ©Philippe Hervé Leloup"
+  image: /assets/images/oreb2.jpg
+  image_description: "Cheval Blanc seen from Mont-Oreb, France/Switzerland"
+  caption: "Cheval Blanc seen from Mont-Oreb - ©Philippe Hervé Leloup"
 redirect_from: 
   - /datageol/
   - /datageol.html
