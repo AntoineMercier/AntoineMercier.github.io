@@ -22,9 +22,3 @@ toc_icon: "globe-europe"
 
 ### Field Courses
 * M1 - Stage de cartographie 3D, Cévènnes, Bassin d'Alès.
-
-## Online tutorials for students: 
-{% include base_path %}
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
