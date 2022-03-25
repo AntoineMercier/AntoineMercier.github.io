@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/   
+  - title: "DataGeol"
+    url: /datageol/
  # - title: "Blog [Fr]"
  #   url: /year-archive/
  # - title: "Field missions"
