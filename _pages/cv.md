@@ -19,6 +19,10 @@ LABORATOIRE DE GEOLOGIE DE LYON : TERRE, PLANETES ET ENVIRONNEMENT
 Unité mixte de recherche : UMR 5276  
 Equipe surface et lithosphere
 
+Administrative responsability
+-----------------------------
+Representant des étudiants (collège usagers) au conseil de l'Observatoire de Lyon.
+
 Academic background
 --------------------
 
