@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" #"default" "air", "aqua", "contrast", "dark", 
 locale                   : "en-US"
 title                    : "Antoine Mercier"
 title_separator          : "-"
-subtitle                 : "Ph.D. Student in Tectonics"
+subtitle                 : "Ph.D. Candidate in Tectonics"
 name                     : "Antoine Mercier"
 description              : "My personnal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
