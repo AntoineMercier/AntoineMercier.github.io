@@ -1,7 +1,7 @@
 ---
 title: "Large thrusting and late faulting shape the Aiguilles Rouges crystalline massif (Western Alps), structural implications"
 collection: publications
-permalink: /publication/2023-01-01_HBT_Tectonophysics
+permalink: /publications/2023-01-01_HBT_Tectonophysics
 excerpt: 'A. Mercier, P.H. Leloup, G. Courrioux, S. Caritg, S. Lopez, P. Grandjean, S. Passot, A. Kalifi. Tectonophysics, 2023'
 date: 2023-01-01
 classes: wide
