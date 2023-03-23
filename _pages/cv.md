@@ -14,10 +14,13 @@ redirect_from:
 
 Current position
 -----------------
-Ph.D. student in tectonics  
-LABORATOIRE DE GEOLOGIE DE LYON : TERRE, PLANETES ET ENVIRONNEMENT  
-Unité mixte de recherche : UMR 5276  
-Equipe surface et lithosphere
+Ph.D. candidate in tectonics  
+UMR CNRS 5276 (CNRS, ENS, Université Lyon1, UJM)
+Université Claude Bernard, Lyon1
+Campus de la Doua, bâtiment Géode (R6 - Bureau 601)
+2, rue Raphaël Dubois
+69622 Villeurbanne Cedex
+France
 
 Administrative responsability
 -----------------------------
