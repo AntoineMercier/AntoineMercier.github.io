@@ -6,9 +6,9 @@ excerpt: 'I. Manighetti, A. Mercier & L. De Barros. Geophysical Research Letter,
 date: 2021-10-06
 classes: wide
 header:
-  image: /assets/images/flegere.jpg
-  image_description: "Mont-Blanc massif, France"
-  caption: "Mont-Blanc massif from La Flégère, France - ©Antoine Mercier"
+  image: /assets/images/Denali.png
+  image_description: "Denali fault trace, Alaska, USA"
+  caption: "Denali fault trace, Alaska, USA"
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095372'
 ---
 
