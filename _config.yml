@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Antoine Mercier"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Tectonics, geology, GIS"
-  location         : "Université de Lyon"
+  bio              : "Tectonics and Structural Geology"
+  location         : "University of Lyon"
   email            : "antoine.mercier@gmx.com"
   links:
     - label: "Email"
@@ -111,9 +111,6 @@ author:
     - label: "Université Claude Bernard Lyon 1 "
       icon: "fas fa-university"
       url: "https://www.univ-lyon1.fr/"
-    - label: "Observatoire de Lyon"
-      icon: "fas fa-globe-europe"
-      url: "https://observatoire.univ-lyon1.fr/"
     - label: "Laboratoire de géologie de Lyon"
       icon: "fas fa-microscope"
       url: "http://lgltpe.ens-lyon.fr"
